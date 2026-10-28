@@ -1,6 +1,6 @@
 ---
 name: audience-research-vi
-description: Phân tích câu hỏi, bình luận, khảo sát, đánh giá và truy vấn tìm kiếm của độc giả Việt Nam để tìm nhu cầu có bằng chứng và cách họ diễn đạt. Dùng trước khi chọn chủ đề, viết chiến dịch hoặc sửa thông điệp sản phẩm.
+description: Phân tích bình luận, khảo sát, đánh giá và truy vấn để tìm nhu cầu độc giả có bằng chứng. Dùng khi quyết định chủ đề hoặc thông điệp dựa trên dữ liệu; không dùng để định vị thương hiệu.
 ---
 
 # Nghiên cứu độc giả Việt Nam
@@ -21,7 +21,7 @@ Nếu có công cụ web và người dùng yêu cầu tìm hiểu nguồn công
 ## Quy trình
 
 1. Xác định quyết định cần hỗ trợ: chọn chủ đề, sửa onboarding, viết bài, xây khóa học hay làm nội dung fan page.
-2. Kiểm tra dữ liệu: nguồn, thời gian, số lượng, ngôn ngữ và khả năng trùng lặp. Báo khi mẫu quá nhỏ hoặc lệch.
+2. Kiểm tra nguồn, khoảng thời gian, tổng số dòng, số người duy nhất nếu biết, ngôn ngữ, trùng lặp và khả năng lệch mẫu. Khi đếm insight, phân biệt số người nhắc đến với số lần nhắc.
 3. Chuẩn hóa lỗi gõ và cách viết chỉ khi việc đó không làm đổi nghĩa. Giữ nguyên trích dẫn ngắn nếu cần thể hiện giọng độc giả.
 4. Nhóm dữ liệu theo việc muốn hoàn thành, mức kinh nghiệm, điểm vướng, cách làm hiện tại, câu hỏi và phản đối.
 5. Với mỗi chủ đề, tách ba lớp: bằng chứng có trong dữ liệu; diễn giải của agent; giả thuyết cần kiểm tra.
@@ -37,7 +37,7 @@ Nêu 3–5 phát hiện quan trọng và quyết định nội dung chúng hỗ 
 
 ### Bảng insight
 
-| Việc độc giả muốn làm | Rào cản | Bằng chứng/câu nói | Diễn giải | Mức tin cậy | Ý tưởng nội dung |
+| Việc độc giả muốn làm | Rào cản | Số người/số lượt nhắc | Bằng chứng đã ẩn danh | Diễn giải | Mức tin cậy | Ý tưởng nội dung |
 |---|---|---|---|---|---|
 
 ### Phần kết
